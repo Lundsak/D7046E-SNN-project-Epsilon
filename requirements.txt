@@ -1,0 +1,2 @@
+numpy
+git+https://gitlab.com/inivation/dv/dv-processing
